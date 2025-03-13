@@ -1,2 +1,4 @@
 primeira alteração do arquivo
 nova alteração
+
+Aprendendo Git/GitHub com a turma 1TDSPH.
